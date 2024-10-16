@@ -1,5 +1,6 @@
 # Ex.No: 6               HOLT WINTERS METHOD
-### Date: 
+### Name: Ragul VK
+### Reg No: 212221240043
 
 
 
